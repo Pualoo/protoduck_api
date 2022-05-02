@@ -187,6 +187,7 @@ GEM
     ruby-progressbar (1.11.0)
     shoulda-matchers (5.1.0)
       activesupport (>= 5.2.0)
+    simple_command (1.0.1)
     simplecov (0.21.2)
       docile (~> 1.1)
       simplecov-html (~> 0.11)
@@ -220,6 +221,7 @@ DEPENDENCIES
   rspec-rails (~> 5.1)
   rubocop
   shoulda-matchers (~> 5.1)
+  simple_command
   simplecov (~> 0.21.2)
   sqlite3 (~> 1.4)
   tzinfo-data
